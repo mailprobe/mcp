@@ -13,7 +13,7 @@ The MailProbe tools check, in real time, whether email addresses exist and can r
 
 - **The addresses are sent to MailProbe**, on OVHcloud servers in France. The API keeps nothing: an address is processed in memory and gone when the response is sent.
 - **Each address costs a credit.** One credit per address actually probed, taken from the account of the API key. `get_credits` is free. A new account starts with 100 credits.
-- **No MailProbe tool in the list** means the MCP server is not installed: point the user to https://github.com/jamalofski/mailprobe-mcp#installation.
+- **No MailProbe tool in the list** means the MCP server is not installed: point the user to https://github.com/MailProbe/mcp#installation.
 
 ## The two tools
 

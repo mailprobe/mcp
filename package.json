@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jamalofski/mailprobe-mcp.git"
+    "url": "git+https://github.com/MailProbe/mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/Jamalofski/mailprobe-mcp/issues"
+    "url": "https://github.com/MailProbe/mcp/issues"
   },
   "scripts": {
     "test": "node --test test/*.test.js",

@@ -63,7 +63,7 @@ The Claude and ChatGPT apps connect to a remote server only through an OAuth sig
 The plugin connects Claude Code to the remote server and adds a skill that tells the assistant how to read a result, what a call costs, and how to go through a list.
 
 ```
-/plugin marketplace add jamalofski/mailprobe-mcp
+/plugin marketplace add MailProbe/mcp
 /plugin install mailprobe@mailprobe
 ```
 
@@ -139,7 +139,7 @@ check the manifests, then start a session with the plugin loaded from the folder
 
 ## Support
 
-Open an [issue](https://github.com/jamalofski/mailprobe-mcp/issues) or write to contact@mailprobe.dev.
+Open an [issue](https://github.com/MailProbe/mcp/issues) or write to contact@mailprobe.dev.
 
 ## License
 
