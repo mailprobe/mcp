@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 (2026-11-02)
+
+- The repository moved to the MailProbe organization: [github.com/MailProbe/mcp](https://github.com/MailProbe/mcp). The package, the plugin and the skill point there, and the plugin installs with `/plugin marketplace add MailProbe/mcp`; the old address redirects.
+
 ## 1.1.1 (2026-10-10)
 
 - The local server answers a tool call within about 55 seconds, like the remote one. MCP clients give up on a tool call after a minute, and a call they cancelled returned nothing while the verdicts already in were charged. The server now asks the API to answer in that time, with its `timeout` parameter: an address that has no verdict yet comes back `unknown` with the reason `timeout`, at no charge.
