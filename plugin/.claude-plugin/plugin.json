@@ -8,7 +8,7 @@
     "url": "https://mailprobe.dev"
   },
   "homepage": "https://mailprobe.dev/api-docs/#mcp",
-  "repository": "https://github.com/MailProbe/mcp",
+  "repository": "https://github.com/mailprobe/mcp",
   "license": "MIT",
   "keywords": ["email verification", "email validation", "deliverability", "disposable email", "list cleaning", "mcp"],
   "userConfig": {

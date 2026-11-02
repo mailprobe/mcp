@@ -14,7 +14,7 @@ MCP server of the MailProbe API. An MCP client starts it and talks to it over st
     }
   }
 
-Documentation: https://github.com/MailProbe/mcp
+Documentation: https://github.com/mailprobe/mcp
 `;
 
 const argument = process.argv[2];

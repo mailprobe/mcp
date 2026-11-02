@@ -2,7 +2,7 @@
 
 ## 1.1.2 (2026-11-02)
 
-- The repository moved to the MailProbe organization: [github.com/MailProbe/mcp](https://github.com/MailProbe/mcp). The package, the plugin and the skill point there, and the plugin installs with `/plugin marketplace add MailProbe/mcp`; the old address redirects.
+- The repository moved to the MailProbe organization: [github.com/mailprobe/mcp](https://github.com/mailprobe/mcp). The package, the plugin and the skill point there, and the plugin installs with `/plugin marketplace add mailprobe/mcp`; the old address redirects.
 
 ## 1.1.1 (2026-10-10)
 
